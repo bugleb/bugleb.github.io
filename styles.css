@@ -1,0 +1,31 @@
+body {
+	background-color: #fffae5;
+}
+
+h1 {
+	width: 100%;
+	background-color: black;
+	text-align: center;
+	padding: 30px;
+	color: white;
+	font-family: arial;
+}
+
+#name-div {
+	width: 25%;
+	height: 100%;
+	float: left;
+}
+
+#bio-div {
+	width: 50%;
+	height: 100%;
+	margin: 0 auto;
+}
+
+#contact-div {
+	width: 25%;
+	height: 100%;
+	position: relative;
+	float: right;
+}
